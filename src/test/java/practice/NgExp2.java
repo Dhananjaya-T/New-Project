@@ -13,5 +13,6 @@ public class NgExp2 {
 		System.out.println("done");
 		
 		driver.quit();
+		System.out.println();
 	}
 }
